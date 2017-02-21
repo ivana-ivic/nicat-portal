@@ -28,6 +28,9 @@ namespace NiCATPortal.Models
         public DbSet<Literature> Literature { get; set; }
         public DbSet<Homework> Homework { get; set; }
         public DbSet<Evaluation> Evaluations { get; set; }
+        public DbSet<Administrator> Administrators { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Teacher> Teachers { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {

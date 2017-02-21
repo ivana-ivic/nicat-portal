@@ -9,4 +9,10 @@ namespace NiCATPortal.Models
     public class Administrator : ApplicationUser
     {
     }
+
+    public enum UserType
+    {
+        Student,
+        Profesor
+    }
 }

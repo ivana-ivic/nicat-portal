@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using NiCATPortal.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace NiCATPortal.Controllers
 {
@@ -17,6 +18,7 @@ namespace NiCATPortal.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
+        private ApplicationDbContext dbContext = new ApplicationDbContext();
 
         public AccountController()
         {
@@ -151,21 +153,66 @@ namespace NiCATPortal.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
-                var result = await UserManager.CreateAsync(user, model.Password);
-                if (result.Succeeded)
+                string userType = Request.Form["Tip korisnika"].ToString();
+                var usr = new ApplicationUser();
+                if (userType.Equals("Profesor"))
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
-                    
-                    // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
-                    // Send an email with this link
-                    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
-                    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
-                    // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+                    usr = new Teacher { UserName = model.Email, Email = model.Email, Name = model.Name, LastName = model.LastName, PhoneNumber = model.Phone };
 
-                    return RedirectToAction("Index", "Home");
+                    var result = await UserManager.CreateAsync((usr as Teacher), model.Password);
+                    if (result.Succeeded)
+                    {
+                        var teacherManager = new UserManager<Teacher>(new UserStore<Teacher>(dbContext));
+                        teacherManager.AddToRole(usr.Id, Role.TEACHER);
+                        await SignInManager.SignInAsync((usr as Teacher), isPersistent: false, rememberBrowser: false);
+
+                        // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
+                        // Send an email with this link
+                        // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                        // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                        // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+
+                        return RedirectToAction("Index", "Home");
+                    }
+                    AddErrors(result);
                 }
-                AddErrors(result);
+                else
+                {
+                    usr = new Student { UserName = model.Email, Email = model.Email, Name = model.Name, LastName = model.LastName, PhoneNumber = model.Phone };
+
+                    var result = await UserManager.CreateAsync((usr as Student), model.Password);
+                    if (result.Succeeded)
+                    {
+                        var studentManager = new UserManager<Student>(new UserStore<Student>(dbContext));
+                        studentManager.AddToRole(usr.Id, Role.STUDENT);
+                        await SignInManager.SignInAsync((usr as Student), isPersistent: false, rememberBrowser: false);
+
+                        // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
+                        // Send an email with this link
+                        // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                        // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                        // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+
+                        return RedirectToAction("Index", "Home");
+                    }
+                    AddErrors(result);
+                }
+
+                //var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                //var result = await UserManager.CreateAsync(user, model.Password);
+                //if (result.Succeeded)
+                //{
+                //    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+
+                //    // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
+                //    // Send an email with this link
+                //    // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
+                //    // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
+                //    // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
+
+                //    return RedirectToAction("Index", "Home");
+                //}
+                //AddErrors(result);
             }
 
             // If we got this far, something failed, redisplay form
