@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiCATPortal", "NiCATPortal\NiCATPortal.csproj", "{DE0B2827-DF6D-460A-BE61-D8F2A6606E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiCATPortal.Tests", "NiCATPortal.Tests\NiCATPortal.Tests.csproj", "{EE05351E-8BC8-4FFC-9A58-CA2637F14489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0B2827-DF6D-460A-BE61-D8F2A6606E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0B2827-DF6D-460A-BE61-D8F2A6606E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0B2827-DF6D-460A-BE61-D8F2A6606E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0B2827-DF6D-460A-BE61-D8F2A6606E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE05351E-8BC8-4FFC-9A58-CA2637F14489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE05351E-8BC8-4FFC-9A58-CA2637F14489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE05351E-8BC8-4FFC-9A58-CA2637F14489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE05351E-8BC8-4FFC-9A58-CA2637F14489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
