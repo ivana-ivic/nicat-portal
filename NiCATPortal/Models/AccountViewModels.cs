@@ -55,10 +55,10 @@ namespace NiCATPortal.Models
 
         [Required]
         [DataType(DataType.Password)]
-        [Display(Name = "Password")]
+        [Display(Name = "Lozinka")]
         public string Password { get; set; }
 
-        [Display(Name = "Remember me?")]
+        [Display(Name = "Zapamti me?")]
         public bool RememberMe { get; set; }
     }
 
@@ -69,15 +69,29 @@ namespace NiCATPortal.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
 
+        [Required(ErrorMessage = "Morate uneti ime")]
+        [MaxLength(20, ErrorMessage = "Maksimalna dužina imena je 20 karaktera")]
+        [Display(Name = "Ime")]
+        public string Name { get; set; }
+
+        [Required(ErrorMessage = "Morate uneti prezime")]
+        [MaxLength(30, ErrorMessage = "Maksimalna dužina prezimena je 20 karaktera")]
+        [Display(Name = "Prezime")]
+        public string LastName { get; set; }
+
+        [Required(ErrorMessage = "Morate uneti broj telefona")]
+        [DataType(DataType.PhoneNumber, ErrorMessage = "Telefon nije validnog formata")]
+        public string Phone { get; set; }
+
         [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
+        [StringLength(100, ErrorMessage = "Lozinka mora da sadrži minimum {2} karaktera.", MinimumLength = 6)]
         [DataType(DataType.Password)]
-        [Display(Name = "Password")]
+        [Display(Name = "Lozinka")]
         public string Password { get; set; }
 
         [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        [Display(Name = "Potvrda lozinke")]
+        [Compare("Password", ErrorMessage = "Lozinka i potvrda lozinke se ne slažu.")]
         public string ConfirmPassword { get; set; }
     }
 
@@ -89,14 +103,14 @@ namespace NiCATPortal.Models
         public string Email { get; set; }
 
         [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
+        [StringLength(100, ErrorMessage = "Lozinka mora da sadrži minimum {2} karaktera.", MinimumLength = 6)]
         [DataType(DataType.Password)]
-        [Display(Name = "Password")]
+        [Display(Name = "Lozinka")]
         public string Password { get; set; }
 
         [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        [Display(Name = "Potvrda lozinke")]
+        [Compare("Password", ErrorMessage = "Lozinka i potvrda lozinke se ne slažu.")]
         public string ConfirmPassword { get; set; }
 
         public string Code { get; set; }
