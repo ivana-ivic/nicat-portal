@@ -1,0 +1,39 @@
+﻿@model NiCATPortal.Models.Literature
+
+@{
+    ViewBag.Title = "Brisanje";
+}
+
+<h2>Brisanje</h2>
+
+<h3>Da li ste sigurni da želite da obrišete ovaj fajl?</h3>
+<div>
+    <h4>Literatura</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FileName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FileName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group" style="display:none">
+            @Html.Label("Literature Id", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("literatureId", new { htmlAttributes = new { @class = "form-control", @Value = Model.Id } })
+            </div>
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obriši" class="btn btn-default" /> |
+            @Html.ActionLink("Nazad", "Index")
+        </div>
+    }
+</div>

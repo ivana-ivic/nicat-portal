@@ -1,0 +1,73 @@
+﻿
+@model NiCATPortal.Models.CourseGridViewModel
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Kursevi";
+}
+
+<h2>Kursevi</h2>
+
+@if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+{
+    <p>
+        @Html.ActionLink("Dodaj novi kurs", "Create")
+    </p>
+}
+
+@using (Html.BeginForm())
+{
+    <p>
+        Pretraži po nazivu: @Html.TextBox("Search", null, new { @style = "line-height:32px;" })
+        <input type="submit" value="Pretraži" class="btn btn-default" />
+    </p>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", Model.QueryStringSorting("Name"))
+        </th>
+        <th>
+            @Html.ActionLink("Year", "Index", Model.QueryStringSorting("Year"))
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Courses)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+                {
+                    @Html.ActionLink("Ažuriraj", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })<span> | </span>
+                }
+                @Html.ActionLink("Detalji", "Details", new { id = item.Id, userId = User.Identity.GetUserId() }, new { @class = "btn btn-primary" })
+                @if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+                {
+                    <span> | </span>@Html.ActionLink("Obriši", "Delete", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+                }
+                        
+                    </td>
+                </tr>
+    }
+</table>
+
+<p>
+    Strana:
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        @Html.ActionLink(i.ToString(), "Index", Model.QueryStringPaging(i))
+        if (i < Model.TotalPages)
+        {
+            @Html.Raw(" | ")
+        }
+    }
+</p>

@@ -1,0 +1,101 @@
+﻿@model NiCATPortal.Models.Course
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Detalji";
+}
+
+<h2>Detalji</h2>
+
+<div>
+    <h4>Kurs
+    @if (!User.IsInRole("Admin"))
+    {
+        if (ViewBag.UserContainsCourse)
+        {
+            <span> | </span>@Html.ActionLink("Ispiši se", "RemoveUserFromCourse", new { id = Model.Id, userId = User.Identity.GetUserId() })
+        }
+        else
+        {
+            <span> | </span>@Html.ActionLink("Upiši se", "AddUserToCourse", new { id = Model.Id, userId = User.Identity.GetUserId() })
+        }
+    }</h4>
+    <hr />
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Studenti")
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Studenti koji pohađaju kurs", "CourseUsersList", new { id = Model.Id, usersType="Students" }, null)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Predavači")
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Lista predavača na kursu", "CourseUsersList", new { id = Model.Id, usersType = "Teachers" }, null)
+        </dd>
+
+        @if (ViewBag.UserContainsCourse)
+        {
+            <dt>
+                @Html.DisplayName("Literatura")
+            </dt>
+
+            <dd>
+                @Html.ActionLink("Pogledajte ovde", "Index", "Literature", new { courseId = Model.Id, userId = User.Identity.GetUserId() }, null)
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Domaći zadaci")
+            </dt>
+
+            <dd>
+                @Html.ActionLink("Pogledajte ovde", "Index", "Homework", new { courseId = Model.Id @*, userId = User.Identity.GetUserId()*@ }, null)
+            </dd>
+
+            <dt>
+                @Html.DisplayName("Ocene")
+            </dt>
+
+            <dd>
+                @Html.ActionLink("Ocene studenata", "Index", "Evaluations", new { courseId = Model.Id }, null)
+            </dd>
+        }
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("Ažuriraj", "Edit", new { id = Model.Id })<span> | </span>
+    }
+    @Html.ActionLink("Svi kursevi", "Index")
+</p>

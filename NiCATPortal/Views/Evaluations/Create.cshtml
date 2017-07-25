@@ -1,0 +1,49 @@
+﻿@model NiCATPortal.Models.Evaluation
+
+@{
+    ViewBag.Title = ViewBag.courseName + "  >  " + ViewBag.studentName;
+}
+
+<h2>ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>@ViewBag.Title</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Mark, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Mark, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Mark, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="display:none">
+            @Html.Label("Student", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("studentId", new { htmlAttributes = new { @class = "form-control", @Value = ViewBag.studentId } })
+            </div>
+        </div>
+
+        <div class="form-group" style="display:none">
+            @Html.Label("Course", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("courseId", new { htmlAttributes = new { @class = "form-control", @Value = ViewBag.courseId } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Oceni" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Sve ocene", "Index",new { courseId = ViewBag.courseId })
+</div>

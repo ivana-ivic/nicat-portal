@@ -1,0 +1,30 @@
+ADMIN
+*dodaje, brise i azurira korisnike - ZAVRSENO
+*dodaje, brise i azurira kurseve - ZAVRSENO
+
+STUDENT
+*pregled liste dostupnih kurseva - ZAVRSENO
+*pregled kursa (na strani kursa naziv, opis, link ka listi literature, link ka korisnicima koji pohadjaju kurs, prikaz predavaca, dugme za odjavu sa kursa - ZAVRSENO
+*pregled svog profila, dugme za dodavanje cv-a (ako ne postoji dodaj, ako postoji prebrisi postojeci), klik na cv za download - ZAVRSENO
+*link ka listi kurseva koje student pohadja - ZAVRSENO
+*pregled profila drugih korisnika - ZAVRSENO
+*student moze da se upisuje na kurs i ispisuje sa kursa - ZAVRSENO
+*dugme/link za dodavanje domaceg zadatka)
+
+PROFESOR
+*lista kurseva na kome predaje - ZAVRSENO
+*pregled pojedinacnog kursa (naziv, opis, link ka listi dostupne literature) - ZAVRSENO
+*pregled literature vezane za jedan kurs, link za dodavanje literature - ZAVRSENO
+*pregled svog profila i profila drugih korisnika - ZAVRSENO
+*profesor moze da se upisuje na kurs i ispisuje sa kursa - ZAVRSENO
+*za svaki kurs profesor moze da vidi predate domace zadatke
+*profesor ocenjuje studenta
+
+
+OSTALE STVARI
+*paginacija (gridovi) - ZAVRSENO
+*rutiranje
+
+
+role
+http://www.dotnetfunda.com/articles/show/2898/working-with-roles-in-aspnet-identity-for-mvc

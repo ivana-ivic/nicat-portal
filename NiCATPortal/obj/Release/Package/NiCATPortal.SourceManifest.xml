@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

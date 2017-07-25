@@ -54,9 +54,9 @@ namespace NiCATPortal
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "390422797980701",
+               appSecret: "df28291e9ff19af44e35c2915e9a33fb");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
