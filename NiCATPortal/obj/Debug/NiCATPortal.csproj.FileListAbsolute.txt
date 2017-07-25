@@ -1,0 +1,1034 @@
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.CVInStudent.resources
+C:\Users\Ivana\Desktop\old\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.CVInStudent.resources
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.PaginacijaKursevi.resources
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Joe\Desktop\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.paginacijaAdministrators.resources
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.CVInStudent.resources
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal novoo\NiCATPortal novo\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.CVInStudent.resources
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.CVInStudent.resources
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702211243406_InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal Ivana-2.3 moje\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702232022547_CVInStudent.resources
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702211243406_InitialMigration.resources
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702232022547_CVInStudent.resources
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal 4.3\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702211243406_InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702232022547_CVInStudent.resources
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal 4.3-route\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702211243406_InitialMigration.resources
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702232022547_CVInStudent.resources
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Joe\Desktop\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\ApplicationInsights.config
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\csc.exe
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\vbc.exe
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll.config
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\NiCATPortal.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Owin.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Linq.Dynamic.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\SendGrid.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702211243406_InitialMigration.resources
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.Migrations.201702232022547_CVInStudent.resources
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.dll
+C:\Users\Ivana\Desktop\NiCATPortal 5.3 Djole\NiCATPortal 5.3 Ivana\NiCATPortal\NiCATPortal\obj\Debug\NiCATPortal.pdb

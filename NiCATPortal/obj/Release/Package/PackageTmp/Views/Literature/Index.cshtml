@@ -1,0 +1,40 @@
+﻿@model IEnumerable<NiCATPortal.Models.Literature>
+
+@{
+    ViewBag.Title = "Literatura";
+}
+
+<h2>Literatura</h2>
+
+@if (User.IsInRole(NiCATPortal.Models.Role.TEACHER) && ViewBag.userContainsCourse == true)
+{
+    <p>
+        @Html.ActionLink("Dodajte literaturu", "UploadLiterature", "Courses", new { courseId = ViewBag.courseId },null)
+    </p>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FileName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FileName)
+        </td>
+        <td>
+            @*@Html.ActionLink("Ažuriraj", "Edit", new { id=item.Id, courseId=ViewBag.courseId }) |*@
+            @Html.ActionLink("Skini", "DownloadLiterature", new { id=item.Id@*, courseId = ViewBag.courseId*@ })
+            @if (User.IsInRole("Teacher") || User.IsInRole("Admin"))
+            {
+                 <span> | </span>@Html.ActionLink("Obriši", "Delete", new { id = item.Id, courseId = ViewBag.courseId })
+            }
+        </td>
+    </tr>
+}
+
+</table>
