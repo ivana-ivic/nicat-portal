@@ -14,9 +14,14 @@ namespace NiCATPortal.Models
         [MaxLength(50, ErrorMessage = "Maksimalna dužina naziva je 50 karaktera")]
         [Display(Name = "Naziv kursa")]
         public string Name { get; set; }
+
         [Required(ErrorMessage = "Morate uneti godinu održavanja kursa")]
-        [Display(Name = "Godina održavanja kursa")]
-        public DateTime Year { get; set; }
+        [Display(Name = "Godina")]
+        [Range(2014, 2050, ErrorMessage = "Godina kursa mora biti u opsegu od 2014. do 2050.")]
+        public int Year { get; set; }
+
+        [Display(Name = "Opis kursa")]
+        public string Description { get; set; }
 
         public virtual ICollection<Teacher> Teachers { get; set; }
         public virtual ICollection<Student> Students { get; set; }

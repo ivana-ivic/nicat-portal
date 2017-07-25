@@ -1,0 +1,83 @@
+﻿@model NiCATPortal.Models.Student
+@using Microsoft.AspNet.Identity;
+@{
+    ViewBag.Title = "Profil";
+}
+
+<h2>Profil</h2>
+
+<div>
+    <h4>Polaznik</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Ime")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Prezime")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Broj telefona")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("CV")
+        </dt>
+
+        <dd>
+            @if(ViewBag.studentHasCV == false && User.Identity.GetUserId() != Model.Id)
+            {
+                <span>Student nije postavio CV.</span>
+            }
+            else
+            {
+                @Html.ActionLink("Pregled", "Details", "CVs", new { studentId = Model.Id }, null)
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Kursevi")
+        </dt>
+
+        <dd>
+            @Html.ActionLink("Lista kurseva koje student pohađa", "UserCourses", "Courses", new { userId = Model.Id }, null)
+        </dd>
+
+    </dl>
+</div>
+
+@if (User.Identity.GetUserId().Equals(Model.Id))
+{
+     <p>
+         @Html.ActionLink("Ažuriraj", "Edit", new { id = Model.Id })<span> | </span>
+         @Html.ActionLink("Podešavanja", "Index", "Manage")
+     </p>
+}
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Ažuriraj", "Edit", new { id = Model.Id })
+    </p>
+}

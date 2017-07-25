@@ -15,6 +15,5 @@ namespace NiCATPortal.Models
         [Display(Name = "Fajl")]
         public string FileName { get; set; }
 
-        public virtual Student Student { get; set; }
     }
 }

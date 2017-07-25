@@ -1,0 +1,30 @@
+﻿@model NiCATPortal.Models.CV
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Detalji";
+}
+
+<h2>Detalji</h2>
+
+<div>
+    <h4>CV</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FileName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FileName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (User.Identity.GetUserId() == ViewBag.studentId)
+    {
+        @Html.ActionLink("Izmeni", "Edit", new { id = Model.Id })<span> | </span>
+    }
+    @Html.ActionLink("Skini CV", "DownloadCV",new { id=Model.Id })
+</p>

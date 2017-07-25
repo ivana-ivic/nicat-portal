@@ -7,7 +7,19 @@
 
     <ul class="nav navbar-nav navbar-right">
         <li>
-            @Html.ActionLink("Zdravo, " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            @if (User.IsInRole("Student"))
+            {
+                @Html.ActionLink("Zdravo, " + User.Identity.GetUserName() + "!", "Details", "Students", routeValues: new { id=User.Identity.GetUserId() }, htmlAttributes: new { title = "Profil" })
+            }
+            else if(User.IsInRole("Teacher"))
+            {
+                @Html.ActionLink("Zdravo, " + User.Identity.GetUserName() + "!", "Details", "Teachers", routeValues: new { id = User.Identity.GetUserId() }, htmlAttributes: new { title = "Profil" })
+            }
+            else
+            {
+                @Html.ActionLink("Zdravo, " + User.Identity.GetUserName() + "!", "Details", "Administrators", routeValues: new { id = User.Identity.GetUserId() }, htmlAttributes: new { title = "Profil" })
+            }
+
         </li>
         <li><a href="javascript:document.getElementById('logoutForm').submit()">Odjava</a></li>
     </ul>

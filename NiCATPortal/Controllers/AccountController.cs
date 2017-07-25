@@ -14,6 +14,7 @@ using Microsoft.AspNet.Identity.EntityFramework;
 namespace NiCATPortal.Controllers
 {
     [Authorize]
+    [Route("Nalog/{action}")]
     public class AccountController : Controller
     {
         private ApplicationSignInManager _signInManager;
@@ -77,6 +78,12 @@ namespace NiCATPortal.Controllers
 
             // This doesn't count login failures towards account lockout
             // To enable password failures to trigger account lockout, change to shouldLockout: true
+            ApplicationUser user = dbContext.Users.FirstOrDefault(u => u.Email.Equals(model.Email));
+            //if (user != null && !user.EmailConfirmed)
+            //{
+            //    ModelState.AddModelError("", "Niste potvrdili email. Potvrdite email kako bi pristupili nalogu."/*"Invalid login attempt."*/);
+            //    return View(model);
+            //}
             var result = await SignInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, shouldLockout: false);
             switch (result)
             {
@@ -88,7 +95,7 @@ namespace NiCATPortal.Controllers
                     return RedirectToAction("SendCode", new { ReturnUrl = returnUrl, RememberMe = model.RememberMe });
                 case SignInStatus.Failure:
                 default:
-                    ModelState.AddModelError("", "Invalid login attempt.");
+                    ModelState.AddModelError("", "Prijava nije uspela. Pokušajte ponovo."/*"Invalid login attempt."*/);
                     return View(model);
             }
         }
@@ -164,7 +171,20 @@ namespace NiCATPortal.Controllers
                     {
                         var teacherManager = new UserManager<Teacher>(new UserStore<Teacher>(dbContext));
                         teacherManager.AddToRole(usr.Id, Role.TEACHER);
-                        await SignInManager.SignInAsync((usr as Teacher), isPersistent: false, rememberBrowser: false);
+                        //await SignInManager.SignInAsync((usr as Teacher), isPersistent: false, rememberBrowser: false);
+
+                        var code = await UserManager.GenerateEmailConfirmationTokenAsync(usr.Id);
+                        var callbackUrl = Url.Action(
+                           "ConfirmEmail", "Account",
+                           new { userId = usr.Id, code = code },
+                           protocol: Request.Url.Scheme);
+
+                        await UserManager.SendEmailAsync(usr.Id,
+                           "Potvrdite svoj nalog - NiCAT Portal",
+                           "Potvrdite svoj nalog klikom na link: <a href=\""
+                                                           + callbackUrl + "\">link</a>");
+                        // ViewBag.Link = callbackUrl;   // Used only for initial demo.
+                        return View("ConfirmationEmailSent");
 
                         // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
                         // Send an email with this link
@@ -172,7 +192,7 @@ namespace NiCATPortal.Controllers
                         // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                         // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
 
-                        return RedirectToAction("Index", "Home");
+                        //return RedirectToAction("Index", "Home");
                     }
                     AddErrors(result);
                 }
@@ -185,7 +205,20 @@ namespace NiCATPortal.Controllers
                     {
                         var studentManager = new UserManager<Student>(new UserStore<Student>(dbContext));
                         studentManager.AddToRole(usr.Id, Role.STUDENT);
-                        await SignInManager.SignInAsync((usr as Student), isPersistent: false, rememberBrowser: false);
+                        //await SignInManager.SignInAsync((usr as Student), isPersistent: false, rememberBrowser: false);
+
+                        var code = await UserManager.GenerateEmailConfirmationTokenAsync(usr.Id);
+                        var callbackUrl = Url.Action(
+                           "ConfirmEmail", "Account",
+                           new { userId = usr.Id, code = code },
+                           protocol: Request.Url.Scheme);
+
+                        await UserManager.SendEmailAsync(usr.Id,
+                           "Potvrdite svoj nalog - NiCAT Portal",
+                           "Potvrdite svoj nalog klikom na link: <a href=\""
+                                                           + callbackUrl + "\">link</a>");
+                        // ViewBag.Link = callbackUrl;   // Used only for initial demo.
+                        return View("ConfirmationEmailSent");
 
                         // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
                         // Send an email with this link
@@ -193,7 +226,7 @@ namespace NiCATPortal.Controllers
                         // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                         // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
 
-                        return RedirectToAction("Index", "Home");
+                        //return RedirectToAction("Index", "Home");
                     }
                     AddErrors(result);
                 }
@@ -403,8 +436,9 @@ namespace NiCATPortal.Controllers
         {
             if (User.Identity.IsAuthenticated)
             {
-                return RedirectToAction("Index", "Manage");
+                return RedirectToAction("Manage");
             }
+            else
 
             if (ModelState.IsValid)
             {
@@ -414,20 +448,46 @@ namespace NiCATPortal.Controllers
                 {
                     return View("ExternalLoginFailure");
                 }
+                string userType = Request.Form["Tip korisnika"].ToString();
                 var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
-                var result = await UserManager.CreateAsync(user);
-                if (result.Succeeded)
+                if (userType.Equals("Profesor"))
                 {
-                    result = await UserManager.AddLoginAsync(user.Id, info.Login);
+                    var usr = new Teacher { UserName = model.Email, Email = model.Email, EmailConfirmed=true };
+
+                    // var result = await UserManager.CreateAsync((usr as Teacher), model.Email);
+                    IdentityResult result = await UserManager.CreateAsync(usr as Teacher);
                     if (result.Succeeded)
                     {
-                        await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
+                        result = await UserManager.AddLoginAsync(usr.Id, info.Login);
+                        var teacherManager = new UserManager<Teacher>(new UserStore<Teacher>(dbContext));
+                        teacherManager.AddToRole(usr.Id, Role.TEACHER);
+                        await SignInManager.SignInAsync((usr as Teacher), isPersistent: false, rememberBrowser: false);
+
                         return RedirectToLocal(returnUrl);
                     }
+                    AddErrors(result);
                 }
-                AddErrors(result);
-            }
+                else
+                {
+                    var usr = new Student { UserName = model.Email, Email = model.Email, EmailConfirmed = true };
 
+                    //var result = await UserManager.CreateAsync((usr as Student), model.Email);
+                    IdentityResult result = await UserManager.CreateAsync(usr as Student);
+                    if (result.Succeeded)
+                    {
+                        result = await UserManager.AddLoginAsync(usr.Id, info.Login);
+                        var studentManager = new UserManager<Student>(new UserStore<Student>(dbContext));
+                        studentManager.AddToRole(usr.Id, Role.STUDENT);
+                        await SignInManager.SignInAsync((usr as Student), isPersistent: false, rememberBrowser: false);
+
+
+                        return RedirectToLocal(returnUrl);
+                    }
+                    AddErrors(result);
+                }
+
+
+            }
             ViewBag.ReturnUrl = returnUrl;
             return View(model);
         }

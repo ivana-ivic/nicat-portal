@@ -14,6 +14,7 @@ namespace NiCATPortal.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
         }
 
         protected override void Seed(NiCATPortal.Models.ApplicationDbContext context)
@@ -56,6 +57,35 @@ namespace NiCATPortal.Migrations
                 var adminManager = new UserManager<Administrator>(new UserStore<Administrator>(context));
                 adminManager.AddToRole(administrator.Id, Role.ADMIN);
             }
+
+
+            //var teacher1 = context.Teachers.FirstOrDefault(t => t.Email.Equals("pera.peric@portal.com"));
+            //var course2 = context.Courses.FirstOrDefault(c => c.Id == 2);
+            //var course3 = context.Courses.FirstOrDefault(c => c.Id == 3);
+            //var course5 = context.Courses.FirstOrDefault(c => c.Id == 5);
+            //teacher1.Courses.Add(course2);
+            //teacher1.Courses.Add(course3);
+            //teacher1.Courses.Add(course5);
+
+            //var course1 = context.Courses.FirstOrDefault(c => c.Id == 1);
+            //var course4 = context.Courses.FirstOrDefault(c => c.Id == 4);
+            //var teacher2 = context.Teachers.FirstOrDefault(t => t.Email.Equals("nada@portal.com"));
+            //teacher2.Courses.Add(course1);
+            //teacher2.Courses.Add(course4);
+
+            //var student1 = context.Students.FirstOrDefault(t => t.Email.Equals("itjaiw @gmail.com"));
+            //student1.Courses.Add(course1);
+            //student1.Courses.Add(course2);
+            //student1.Courses.Add(course3);
+            //student1.Courses.Add(course4);
+            //student1.Courses.Add(course5);
+
+            //var student2 = context.Students.FirstOrDefault(t => t.Email.Equals("mika.mikic@portal.com"));
+            //student2.Courses.Add(course1);
+            //student2.Courses.Add(course2);
+            //student2.Courses.Add(course3);
+
+            //context.SaveChanges();
 
             //  This method will be called after migrating to the latest version.
 

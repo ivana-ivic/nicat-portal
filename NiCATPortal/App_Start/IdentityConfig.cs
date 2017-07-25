@@ -11,6 +11,10 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using NiCATPortal.Models;
+using SendGrid.Helpers.Mail;
+using System.Net;
+using System.Configuration;
+using System.Net.Mail;
 
 namespace NiCATPortal
 {
@@ -18,8 +22,57 @@ namespace NiCATPortal
     {
         public Task SendAsync(IdentityMessage message)
         {
+            return configSendGridasync(message);
             // Plug in your email service here to send an email.
-            return Task.FromResult(0);
+            //return Task.FromResult(0);
+        }
+
+        private async Task configSendGridasync(IdentityMessage message)
+        {
+            //var body = "<p>Email From: {0} ({1})</p><p>Message:</p><p>{2}</p>";
+            var myMessage = new MailMessage();
+            myMessage.To.Add(new MailAddress(message.Destination));  // replace with valid value 
+            myMessage.From = new MailAddress("itjaiw@gmail.com");  // replace with valid value
+            myMessage.Subject = message.Subject;
+            myMessage.Body = message.Body;
+            myMessage.IsBodyHtml = true;
+
+            using (var smtp = new SmtpClient())
+            {
+                var credential = new NetworkCredential
+                {
+                    UserName = "itjaiw@gmail.com",  // replace with valid value
+                    Password = "mickoijames"  // replace with valid value
+                };
+                smtp.Credentials = credential;
+                smtp.Host = "smtp.gmail.com";
+                smtp.Port = 587;
+                smtp.EnableSsl = true;
+                await smtp.SendMailAsync(myMessage);
+            }
+            //var myMessage = new SendGridMessage();
+            //myMessage.AddTo(new EmailAddress(message.Destination));
+            //myMessage.From = new EmailAddress("Joe@contoso.com", "Joe S.");
+            //myMessage.Subject = message.Subject;
+            //myMessage.PlainTextContent = message.Body;
+            //myMessage.HtmlContent = message.Body;
+            //var credentials = new NetworkCredential(
+            //           ConfigurationManager.AppSettings["mailAccount"],
+            //           ConfigurationManager.AppSettings["mailPassword"]
+            //           );
+
+            //// Create a Web transport for sending email.
+            //var transportWeb = new Web(credentials);
+
+            //// Send the email.
+            //if (transportWeb != null)
+            //{
+            //    return transportWeb.DeliverAsync(myMessage);
+            //}
+            //else
+            //{
+            //    return Task.FromResult(0);
+            //}
         }
     }
 

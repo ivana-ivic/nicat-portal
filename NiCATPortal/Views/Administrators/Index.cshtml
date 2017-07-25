@@ -1,0 +1,82 @@
+﻿@model NiCATPortal.Models.AdministratorGridViewModel
+
+@{
+    ViewBag.Title = "Korisnici";
+}
+
+<h2>Korisnici</h2>
+
+@if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+{
+    <p>
+        @Html.ActionLink("Dodaj novog korisnika", "Create")
+    </p>
+}
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("Search")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", Model.QueryStringSorting("Name"))
+        </th>
+        <th>
+            @Html.ActionLink("LastName", "Index", Model.QueryStringSorting("LastName"))
+        </th>
+        <th>
+            @Html.ActionLink("Email", "Index", Model.QueryStringSorting("Email"))
+        </th>
+        <th>
+            @Html.ActionLink("Telefon", "Index", Model.QueryStringSorting("PhoneNumber"))
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Administrators)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+                {
+                    @Html.ActionLink("Ažuriraj", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })<span> | </span>
+                }
+                @Html.ActionLink("Detalji", "Details", new { id = item.Id }, new { @class = "btn btn-primary" })
+                @if (User.IsInRole(NiCATPortal.Models.Role.ADMIN))
+                {
+                    <span> | </span>@Html.ActionLink("Obriši", "Delete", new { id = item.Id }, new { @class = "btn btn-primary" })
+
+                }
+
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    Page:
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        @Html.ActionLink(i.ToString(), "Index", Model.QueryStringPaging(i))
+        if (i < Model.TotalPages)
+        {
+            @Html.Raw(" | ")
+        }
+    }
+</p>

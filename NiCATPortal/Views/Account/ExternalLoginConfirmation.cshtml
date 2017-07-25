@@ -1,6 +1,6 @@
 ﻿@model NiCATPortal.Models.ExternalLoginConfirmationViewModel
 @{
-    ViewBag.Title = "Register";
+    ViewBag.Title = "Registracija";
 }
 <h2>@ViewBag.Title.</h2>
 <h3>Associate your @ViewBag.LoginProvider account.</h3>
@@ -13,15 +13,20 @@
     <hr />
     @Html.ValidationSummary(true, "", new { @class = "text-danger" })
     <p class="text-info">
-        You've successfully authenticated with <strong>@ViewBag.LoginProvider</strong>.
-        Please enter a user name for this site below and click the Register button to finish
-        logging in.
+        Uspesno ste se registrovali preko <strong>@ViewBag.LoginProvider</strong>.
+        Molimo Vas unesite mail, izaberite tip korisnika i kliknite Register dugme da bi zavrsili proces.
     </p>
     <div class="form-group">
         @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
         <div class="col-md-10">
             @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
             @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Tip korisnika", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownList("Tip korisnika", new SelectList(Enum.GetValues(typeof(NiCATPortal.Models.UserType))), new { @class = "form-control" })
         </div>
     </div>
     <div class="form-group">

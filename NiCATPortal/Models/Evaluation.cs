@@ -12,7 +12,7 @@ namespace NiCATPortal.Models
         public int Id { get; set; }
         [Required(ErrorMessage = "Morate da unesete ocenu")]
         [Range(1, 3, ErrorMessage = "Ocena može biti: 1 - student nije položio kurs, 2 - student je položio kurs, 3 - student je položio kurs sa izuzetnim uspehom")]
-        [Display(Name = "Fajl")]
+        [Display(Name = "Ocena")]
         public int Mark { get; set; }
 
         public virtual Student Student { get; set; }
